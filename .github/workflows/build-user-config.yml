@@ -20,7 +20,7 @@ on:
         type: string
       archive_name:
         description: "Archive output file name"
-        default: "firmware"
+        default: "firmware-niceview"
         required: false
         type: string
 
